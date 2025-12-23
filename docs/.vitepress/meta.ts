@@ -12,7 +12,7 @@ export const font = `${googleapis}/css2?family=Readex+Pro:wght@200;400;600&displ
 
 /* vitepress head */
 export const ogUrl = 'https://vitest.dev/'
-export const ogImage = `${ogUrl}og.jpg`
+export const ogImage = `${ogUrl}og.png`
 
 /* GitHub and social links */
 export const github = 'https://github.com/vitest-dev/vitest'
